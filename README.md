@@ -9,9 +9,8 @@ a vulnerable OAuth server to break
 - download the needed libs <br>:
 ` npm i `
 - then run both the server and the client_app on different terminals :<br>
-`node server.js `
-<br>
-`node client_app.js`
+`node server.js `<br>
+`node client_app.js`<br>
 
 
 
