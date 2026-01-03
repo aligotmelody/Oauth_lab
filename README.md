@@ -11,7 +11,7 @@ a vulnerable OAuth server to break
 - then run both the server and the client_app on different terminals :<br>
 `node server.js `
 <br>
-`node client_app`
+`node client_app.js`
 
 
 
